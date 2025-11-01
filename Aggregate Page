@@ -1,0 +1,26 @@
+<!DocType html>
+<html lang="en">
+    <head>
+    <title>All Projects</title>
+        <h1>All projects</h1>
+    </head>
+    <body>
+        <h2>Unity Projects</h2>
+        <br>
+        Project 1
+        <br>
+        Project 2
+        <br>
+        Project 3
+        <br>
+        <h2>Unreal Projects</h2>
+        <br>
+        Project 1
+        <br>
+        Project 2
+        <br>
+        Project 3
+        <br>
+
+    </body>
+</html>
